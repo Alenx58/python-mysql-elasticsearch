@@ -4,7 +4,7 @@ mysql:
   port: 3309
   username: root
   password: root
-  db: santie-2
+  db: demo
 #  sql_statement: select id,userName,passWord from sys_user
   sql_statement: 20201118.sql
 
