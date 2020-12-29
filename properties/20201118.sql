@@ -1,0 +1,1 @@
+select id,userName,passWord from sys_user

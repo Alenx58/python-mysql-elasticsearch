@@ -1,0 +1,9 @@
+DateTime==4.3
+elasticsearch==7.10.1
+mysql-connector-python==8.0.22
+mysql-replication==0.22
+PyMySQL==0.10.1
+PyYAML==5.3.1
+redis==3.5.3
+requests==2.25.1
+

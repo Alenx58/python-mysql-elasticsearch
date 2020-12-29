@@ -1,0 +1,23 @@
+version: 1
+mysql:
+  host: 192.168.10.5
+  port: 3309
+  username: root
+  password: root
+  db: santie-2
+#  sql_statement: select id,userName,passWord from sys_user
+  sql_statement: 20201118.sql
+
+redis:
+  host: 192.168.10.5
+  port: 6379
+  password: root
+  db: 8
+
+elasticsearch:
+  host: ['192.168.10.5:9200', '192.168.10.5:9201']
+  username: elastic
+  password: 123456
+  index_name: python
+  id: id
+  bulk_size: 100
