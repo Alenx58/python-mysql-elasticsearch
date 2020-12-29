@@ -7,7 +7,6 @@
 * python3.7
 * redis
 * elasticsearch
-* *Mysql* 配置  *binlog-format=row*
 
 ## 快速开始
 
